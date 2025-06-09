@@ -1,3 +1,10 @@
+<b>My Computing Environment</b>
+<ol>
+    <li>Windows 11 Pro 24H2, Version 10.0.26100 Build 26100</li>
+    <li>Visual Studio 2022, Version 17.14.4</li>
+    <li>.NET 8</li>
+</ol>
+
 Welcome to my test application for the use of the Mann-Kendall test on real-time 
 stock trades from the New York and NASDAQ exchanges.
 
