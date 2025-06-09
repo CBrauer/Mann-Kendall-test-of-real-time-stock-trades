@@ -16,3 +16,7 @@ https://github.com/user-attachments/assets/b9d3a542-219c-4950-b2a7-3237cdb7df01
 If you like this code and video, please buy me a cup of coffee. It will encourage me
 to create more like this.
 
+<a href="https://www.buymeacoffee.com/CBrauer" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
