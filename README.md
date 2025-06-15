@@ -20,6 +20,10 @@ decreasing price pattern.
 
 
 
+https://github.com/user-attachments/assets/9e9e85d5-28fb-4ee2-b846-9dd32c774f67
+
+
+
 If you like this code and video, please buy me a cup of coffee. It will encourage me
 to create more like this.
 
