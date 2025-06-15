@@ -15,10 +15,10 @@ Instead, we will show how the Mann-Kendall test can be effectively
 used in detecting Buy/Sell signals in a real-time stock price pattern I call the Bottle Rocket Pattern.
 
 Here is a video of my test application that shows the effectiveness of the Mann-Kendall
-algorithm that is used to signal when real-time stock data start an increaasing or
+algorithm that is used to signal when real-time stock data start an increasing or
 decreasing price pattern.
 
-https://github.com/user-attachments/assets/b9d3a542-219c-4950-b2a7-3237cdb7df01
+
 
 If you like this code and video, please buy me a cup of coffee. It will encourage me
 to create more like this.
